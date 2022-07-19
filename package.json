@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "browser-sync": "^2.27.10",
+    "gulp-cli": "^2.3.0"
+  },
+  "name": "javascript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.18.6",
+    "@babel/core": "^7.18.6",
+    "cross-env": "^7.0.3",
+    "gulp": "^4.0.2",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.9.3"
+  },
+  "description": ""
+}
